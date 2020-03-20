@@ -1,5 +1,8 @@
+<p align="center">
+<img height="384" src="https://i.imgur.com/vFSVJYV.png">
+<br>
 <h1 align="center">
-  COVID-19 BRAZIL
+  COVID-19 BRAZIL :microbe:
 </h1>
 
 <h3 align="center">
@@ -7,12 +10,24 @@
     <br>
     Corona virus web crawler in brazil
 </h3>
+<p align="center">
+  <a href="https://twitter.com/intent/user?screen_name=LockDzn_">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social">
+  </a>
+  </p>
+  
+<br>
+
+## :chains: Source:
+
+https://www.worldometers.info/coronavirus/
 
 <br>
 
-## Source:
+## 📦 Dependencies
 
-https://www.worldometers.info/coronavirus/
+* [request](https://www.npmjs.com/package/request)
+* [cheerio](https://www.npmjs.com/package/cheerio)
 
 <br>
 
