@@ -1,6 +1,3 @@
-# covid-19-brazil
-Web crawler de casos de corona vírus no brasil | Corona virus web crawler in brazil | Source:
-
 <h1 align="center">
   COVID-19 BRAZIL
 </h1>
@@ -9,6 +6,8 @@ Web crawler de casos de corona vírus no brasil | Corona virus web crawler in br
     Web crawler de casos de corona vírus no brasil
     Corona virus web crawler in brazil
 </h3>
+
+<br>
 
 ## Source:
 
