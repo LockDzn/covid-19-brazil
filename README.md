@@ -2,7 +2,7 @@
 <img height="384" src="https://i.imgur.com/vFSVJYV.png">
 <br>
 <h1 align="center">
-  COVID-19 BRAZIL :microbe:
+  COVID-19 BRAZIL 🦠
 </h1>
 
 <h3 align="center">
