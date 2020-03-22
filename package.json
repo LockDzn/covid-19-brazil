@@ -1,11 +1,11 @@
 {
   "name": "covid19",
   "version": "1.0.0",
-  "description": "",
+  "description": "Corona Virus web crawler in brazil",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "request": "^2.88.2"
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
   },
   "devDependencies": {},
   "scripts": {
