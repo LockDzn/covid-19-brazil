@@ -1,7 +1,7 @@
 var axios = require("axios");
 var cheerio = require('cheerio');
 
-axios.get('http://www.worldometers.info/coronavirus')
+axios.get('http://www.worldometers.info/coronavirus') // Aqui é a página que pegaremos as informações
 	.then((response) => {
 		if(response.status === 200) {
 				
