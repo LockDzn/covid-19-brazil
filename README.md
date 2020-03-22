@@ -11,8 +11,10 @@
     Corona virus web crawler in brazil
 </h3>
 <p align="center">
-    <a href="https://twitter.com/lockdzn_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true" >Follow @LockDzn_</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a href="https://twitter.com/intent/user?screen_name=LockDzn_">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social">
+  </a>
+  </p>
   
 <br>
 
