@@ -11,10 +11,8 @@
     Corona virus web crawler in brazil
 </h3>
 <p align="center">
-  <<iframe width="440" height="250" src="https://www.youtube.com/embed/fBenXx4ADRM?autoplay=true&start=72&showinfo=0&controls=0" frameborder="0" allow="autoplay; encrypted-media"></iframe><p>
     <a href="https://twitter.com/lockdzn_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true" >Follow @LockDzn_</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </p>
   
 <br>
 
