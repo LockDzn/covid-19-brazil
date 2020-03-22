@@ -1,5 +1,5 @@
 <p align="center">
-<img height="384" src="https://i.imgur.com/vFSVJYV.png">
+    <img src="https://i.imgur.com/YjcvJJe.png"><br>
 <br>
 <h1 align="center">
   COVID-19 BRAZIL 🦠
