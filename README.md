@@ -26,7 +26,7 @@ https://www.worldometers.info/coronavirus/
 
 ## 📦 Dependencies
 
-* [request](https://www.npmjs.com/package/request)
+* [axios](https://www.npmjs.com/package/axios)
 * [cheerio](https://www.npmjs.com/package/cheerio)
 
 <br>
